@@ -58,8 +58,11 @@ Soroban RPC: https://soroban-testnet.stellar.org
 
 ## Screenshot 
 
+**Freight**
 https://github.com/Abhi0833-eng/live-poll-dapp/blob/8ca0af0ceb3d96e728742b4fe2d4382fad4a930f/screenshot/freight%20connect.png
 
+**Poll Submitted**
 https://github.com/Abhi0833-eng/live-poll-dapp/blob/8ca0af0ceb3d96e728742b4fe2d4382fad4a930f/screenshot/poll%20the%20section.png
 
+**Vote Submitted**
 https://github.com/Abhi0833-eng/live-poll-dapp/blob/8ca0af0ceb3d96e728742b4fe2d4382fad4a930f/screenshot/vote%20submitted.png
