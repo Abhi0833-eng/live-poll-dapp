@@ -1,16 +1,55 @@
-# React + Vite
+# Live Poll dApp - Stellar Yellow Belt
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A live polling dApp built on Stellar testnet using Soroban smart contracts.
 
-Currently, two official plugins are available:
+## Features
+- Connect Freighter wallet
+- Vote on-chain using Soroban smart contract
+- Real-time vote count display
+- 3 error types handled:
+  - Wallet not found
+  - Transaction rejected by user
+  - Insufficient balance
+- Transaction status: pending / success / fail
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- React + Vite
+- @stellar/freighter-api v6
+- @stellar/stellar-sdk
+- Soroban Smart Contract (Rust)
+- Stellar Testnet
 
-## React Compiler
+## Deployed Contract
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+CBVY4FQ43ZMDATQHTSFNZQ3UOHIFKLWKMJBFTKKVSV6JYYXOPOWTHXH7
 
-## Expanding the ESLint configuration
+## Contract Transaction Hash
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+dff148dea72615c0ee8789fed2c0a074d79340201103b332cd043a4eb7ded300
+
+## Setup Instructions
+
+1. Clone the repository:
+   git clone https://github.com/Abhi0833-eng/live-poll-dapp.git
+
+2. Install dependencies:
+   cd live-poll-dapp
+   npm install
+
+3. Run the app:
+   npm run dev
+
+4. Open browser:
+   http://localhost:5173
+
+## How to Use
+1. Install Freighter wallet extension
+2. Switch Freighter to Test Net
+3. Fund wallet using Friendbot
+4. Click "Connect Freighter Wallet"
+5. Click any Vote button
+6. Confirm transaction in Freighter
+
+## Network
+Stellar Testnet
+Soroban RPC: https://soroban-testnet.stellar.org
