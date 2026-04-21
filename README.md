@@ -1,3 +1,17 @@
+## Live Demo
+https://live-poll-orange-belt.vercel.app
+
+## Test Results
+4/4 tests passing
+✓ Test 1: renders poll title and connect button
+✓ Test 2: shows disconnect button after wallet connects
+✓ Test 3: shows all three poll options
+✓ Test 4: connect wallet button calls requestAccess
+
+## Demo Video
+[Coming soon - add your video link here]
+
+
 # Live Poll dApp - Stellar Yellow Belt
 
 A live polling dApp built on Stellar testnet using Soroban smart contracts.
