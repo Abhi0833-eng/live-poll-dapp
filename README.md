@@ -55,3 +55,11 @@ dff148dea72615c0ee8789fed2c0a074d79340201103b332cd043a4eb7ded300
 ## Network
 Stellar Testnet
 Soroban RPC: https://soroban-testnet.stellar.org
+
+## Screenshot 
+
+https://github.com/Abhi0833-eng/live-poll-dapp/blob/8ca0af0ceb3d96e728742b4fe2d4382fad4a930f/screenshot/freight%20connect.png
+
+https://github.com/Abhi0833-eng/live-poll-dapp/blob/8ca0af0ceb3d96e728742b4fe2d4382fad4a930f/screenshot/poll%20the%20section.png
+
+https://github.com/Abhi0833-eng/live-poll-dapp/blob/8ca0af0ceb3d96e728742b4fe2d4382fad4a930f/screenshot/vote%20submitted.png
